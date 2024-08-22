@@ -36,7 +36,7 @@ INTEGRATION TESTING: This is the process of testing the compatibility and useabi
 
 SYSTEM TESTING: This is the process of testing the code's compatibility with system platforms like Windows, Android etc.
 
-ACCEPTANCE TESTING: This is the process 
+ACCEPTANCE TESTING: This is the process of checking the conformity of the software with user requirements. This is carried out to align the product with the user's requirements.
 
 
 #Part 2: Introduction to AI and Prompt Engineering
@@ -44,5 +44,17 @@ ACCEPTANCE TESTING: This is the process
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
+ANSWER: 
+Prompt engineering is the process of structuring a query to enable a Generative AI produce a desired output in human readable language, image or video. Prompt engineering is as relevant as AI models themselves in that a good prompt engineering will make determine the output.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+ANSWER:
+
+* A vague prompt would be:
+User: What is software development?
+
+* An improved prompt would be:
+User: Explain software development as an experienced computer teacher to a fifth grade African student.
+
+The improved prompt defines the role, the audience and context, providing the AI models with a clear direction of its expected output.
